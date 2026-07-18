@@ -5,6 +5,14 @@
 야옹은 KBO 중계와 함께 켜두면 현재 타석 선수의 응원 영상과 팀 응원가를
 경기 흐름에 맞춰 자동 재생하는 무료 Android·iOS 앱입니다.
 
+## 17초로 보는 야옹
+
+<a href="https://ya-ong.com/?src=github&amp;campaign=product_demo">
+  <img src="https://ya-ong.com/static/landing/yaong-kbo-app-short-poster.png" width="260" alt="야옹 앱 17초 제품 데모">
+</a>
+
+[실제 앱 화면으로 제품 데모 보기](https://ya-ong.com/?src=github&campaign=product_demo)
+
 ## 주요 기능
 
 - KBO 10개 구단 선수 응원가·팀 응원 영상
